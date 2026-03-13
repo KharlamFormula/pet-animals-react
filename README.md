@@ -1,4 +1,5 @@
-https://lovely-faloodeh-8d0646.netlify.app/
+[https://lovely-faloodeh-8d0646.netlify.app/](https://pet-animals-react.harlamformula.workers.dev/)
+
 ## Функціонал
 
 - Вкладки (Tabs) для розділення інформації за категоріями

@@ -1,4 +1,4 @@
-[https://lovely-faloodeh-8d0646.netlify.app/](https://pet-animals-react.harlamformula.workers.dev/)
+https://pet-animals-react.harlamformula.workers.dev/
 
 ## Функціонал
 
